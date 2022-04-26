@@ -12,9 +12,9 @@ A simple version of a popular airport board
 - [Sass (Scss)](https://sass-lang.com/)
 - [BEM methodology](https://en.bem.info/methodology/)
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 
 ### Author
 
 - Zerkalov Eugenij
-# airport-board
-# airport-board
