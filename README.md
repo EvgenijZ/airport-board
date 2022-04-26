@@ -1,4 +1,4 @@
-# Aiport BOard
+# Airport Board
 
 ### [Site link]()
 
@@ -16,5 +16,6 @@ A simple version of a popular airport board
 ### Author
 
 - Zerkalov Eugenij
+
 # airport-board
 # airport-board
