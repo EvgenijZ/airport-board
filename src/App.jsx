@@ -11,7 +11,7 @@ const App = () => {
 		<Provider store={store}>
 			<main className='page'>
 				<h1 className='title'>Search flight</h1>
-				<Router basename={`/${process.env.PUBLIC_URL}`}>
+				<Router>
 					<Switch>
 						<Route exact path='/'>
 							<Search />
