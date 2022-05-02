@@ -1,6 +1,6 @@
 # Airport Board
 
-### [Site link]()
+### [Site link](https://evgenijz.github.io/airport-board/dist)
 
 A simple version of a popular airport board
 
