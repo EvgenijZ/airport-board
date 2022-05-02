@@ -1,6 +1,6 @@
 # Airport Board
 
-### [Site link](https://evgenijz.github.io/airport-board/dist)
+### [Site link](https://627033c8fb4c8109140c50d3--roaring-lolly-4ee55f.netlify.app/)
 
 A simple version of a popular airport board
 
