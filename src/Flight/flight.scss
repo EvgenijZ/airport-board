@@ -1,0 +1,49 @@
+.flight {
+  width: 100%;
+  border-spacing: 0;
+  text-align: left;
+  &__thead {
+    th {
+      color: var(--color_grey);
+      padding: 10px 20px;
+    }
+  }
+  &__item {
+    &:nth-child(odd) {
+      background-color: var(--color_light_grey_alt);
+    }
+    td {
+      padding: 20px;
+      vertical-align: middle;
+    }
+  }
+  &__term {
+    font-weight: 700;
+    border-radius: 50%;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 36px;
+    font-size: 22px;
+    &--blue {
+      color: var(--color_blue);
+      border: 1px solid var(--color_blue);
+    }
+    &--green {
+      color: var(--color_green);
+      border: 1px solid var(--color_green);
+    }
+  }
+  &__wrap {
+    display: flex;
+    align-items: center;
+  }
+  &__logo {
+    max-width: 65px;
+    margin-right: 10px;
+  }
+  &__empty {
+    padding: 15px;
+  }
+}
